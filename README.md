@@ -4,6 +4,7 @@ Basic concepts in java script programming
 1. Use curly brackets to create JSON like JavaScript object and add properties and functions to the object.
 
 2. Understand the ‘this’ keyword in JavaScript.
+
    Declare a global variable named vehicleName in the window objec
    Declare a method named printVehicleNameto print out the vehicle name
    Declare an object named Vehicle(using object literal notation) which have a variable called vehicleNameand declare a function named        getVehicleNameand assign it with theprintVehicleName
